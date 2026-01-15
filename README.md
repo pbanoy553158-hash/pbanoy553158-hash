@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Princess Mae T. Banoy</h1>
 <h3 align="center">I am an IT Student</h3>
 
-- 🌱 I’m currently learning **Frameworks and other foundational web technologies.**
+- 🌱 I’m currently learning **Frameworks and other foundational web technologies as part of my journey into web development.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pbanoy553158-hash?tab=repositories](https://github.com/pbanoy553158-hash?tab=repositories)
 
