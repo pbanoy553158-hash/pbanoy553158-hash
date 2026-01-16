@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Princess Mae T. Banoy</h1>
 <h3 align="center">I am an IT Student</h3>
 
-<<<<<<< HEAD
 - 🌱 I’m currently learning **I’m currently learning frameworks and other foundational web technologies as part of my journey into web development.**
-=======
+
 - 🌱 I’m currently learning **Frameworks and other foundational web technologies as part of my journey into web development.**
 >>>>>>> 0e5338f270ae6ab50a7398dac95b3ed1df8c9935
 
